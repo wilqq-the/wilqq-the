@@ -6,8 +6,8 @@
 - Mainly Involved in MS Azure technologies
 
 
-https://buycoffee.to/wilqqthe
+buymeacoffee.com/wilqqthe
 
-<a href="https://buycoffee.to/wilqqthe" target="_blank"><img src="https://buycoffee.to/img/share-button-primary.png" style="width: 146px; height: 38px" alt="Postaw mi kawę na buycoffee.to"></a>
+<a href="https://buymeacoffee.com/wilqqthe" target="_blank"><img src="https://buycoffee.to/img/share-button-primary.png" style="width: 146px; height: 38px" alt="Buy me a coffee!"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilqq-the&show_icons=true&theme=transparent)
